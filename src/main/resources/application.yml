@@ -1,0 +1,12 @@
+kafka:
+  bootstrapAddress: localhost:9092
+
+message:
+  topic:
+    name : test
+    groupId: test
+
+person:
+  topic:
+    name: person
+    groupId: person
